@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyMusicSearcher", "SpotifyMusicSearcher\SpotifyMusicSearcher.csproj", "{98333995-9B2C-4289-8B29-AC3844468F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98333995-9B2C-4289-8B29-AC3844468F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98333995-9B2C-4289-8B29-AC3844468F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98333995-9B2C-4289-8B29-AC3844468F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98333995-9B2C-4289-8B29-AC3844468F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
